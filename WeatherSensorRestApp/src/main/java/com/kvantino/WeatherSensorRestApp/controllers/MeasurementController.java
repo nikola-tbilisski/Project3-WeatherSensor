@@ -54,7 +54,7 @@ public class MeasurementController {
 //                .collect(Collectors.toList());
 //    }
 
-    //Get method with sensor parameter: ?name=Sensor name
+    //Get method with sensor parameter: ?name=Sensor name!
     @GetMapping("/sensor")
     public List<MeasurementToSendDTO> showByName(@RequestParam("name") String name) {
         return measurementService.findByName(name).stream()
