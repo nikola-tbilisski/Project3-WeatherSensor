@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=https://github.com/nikola-tbilisski/Project3-WeatherSensor/blob/master/Project3_TZ.pdf
+[![Project3-Readme](https://img.shields.io/badge/Project3-Readme-blue.svg)](Project3_TZ.pdf)
